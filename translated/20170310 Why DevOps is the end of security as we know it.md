@@ -22,7 +22,11 @@ DevOps的真正安全状况是什么？[Get Report][1]
 
 **Josh Corman: **A primary example is the tendency for DevOps teams to instrument everything that can be measured. Security is always looking for more intelligence and telemetry. You can take a lot of what DevOps teams are measuring and enter that info into your log management or your SIEM [security information and event management system].
 
+**Josh Corman: **一个主要的例子是DevOps团队倾向于对所有可以被衡的事情进行衡量。安全部门一直在寻找更多的只能和遥感勘测技术。您可以采取许多DevOps团队的测量技术，并将该信息输入您的日志管理或SIEM [安全信息和事件管理系统]。
+
 An OODA loop [observe, orient, decide, act] is predicated on having enough pervasive eyes and ears to notice whispers and echoes. DevOps gives you pervasive instrumentation.
+
+OODA 循环【观察，调整，决策，行动】是基于普遍的耳目来注意耳语和回声的。DevOps为你提供无处不在的工具。
 
 ### Are there other cultural attitudes that they share?
 
